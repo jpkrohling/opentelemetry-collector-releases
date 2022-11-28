@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/goreleaser/goreleaser v1.11.2
-	github.com/goreleaser/nfpm/v2 v2.18.1
+	github.com/goreleaser/nfpm/v2 v2.22.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -15,7 +15,7 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/goreleaser/fileglob v1.3.0 // indirect
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
-	github.com/invopop/jsonschema v0.6.0 // indirect
+	github.com/invopop/jsonschema v0.7.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
